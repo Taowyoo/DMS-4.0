@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="logout2">images/double_arrow_734px_1190609_easyicon.net.png</file>
+        <file alias="changestyle2">images/magic_936px_1190643_easyicon.net.png</file>
+        <file alias="start2">images/send_1068px_1190679_easyicon.net.png</file>
+        <file alias="clear2">images/trash_300px_1173055_easyicon.net.png</file>
+        <file alias="logout">images/xfsm_logout_48px_518934_easyicon.net.png</file>
+        <file alias="start">images/mail_attachment_48px_518877_easyicon.net.png</file>
+        <file alias="about">images/gtk_info_48px_518854_easyicon.net.png</file>
+        <file alias="clear">images/layers_clear_128px_1181984_easyicon.net.png</file>
+        <file alias="changestyle">images/magic_wand_1805px_1200381_easyicon.net.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qss/coffee.qss</file>
+        <file>qss/black.qss</file>
+        <file>qss/pagefold.qss</file>
+        <file>qss/metrol.qss</file>
+        <file>qss/white.qss</file>
+        <file>qss/default .qss</file>
+    </qresource>
+    <qresource prefix="/">
+        <file alias="background">images/ee57c2ad933aabb5f0030e7ade8a5308.jpg</file>
+    </qresource>
+</RCC>
